@@ -1,5 +1,6 @@
 # Spring-boot-property-config-example
 
+[![Build Status](https://travis-ci.org/saurabhnemade/spring-boot-property-config-example.svg?branch=master)](https://travis-ci.org/saurabhnemade/spring-boot-property-config-example)
 
 Recently I encountered a scenario where multiple properties files are being loaded in single application.
 
